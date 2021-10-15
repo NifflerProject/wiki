@@ -2,12 +2,7 @@
 
 * [Welcome!](README.md)
 
-## The Company
+## Introduction
 
-* [Test](the-company/test.md)
-* [Meet the Team!](the-company/meet-the-team.md)
-
-## The Formal Stuff
-
-* [Requesting Time Off](the-formal-stuff/requesting-time-off.md)
-* [Filing Expenses](the-formal-stuff/filing-expenses.md)
+* [What is Niffler Network](introduction/what-is-niffler-network.md)
+* [FAQ](introduction/faq.md)

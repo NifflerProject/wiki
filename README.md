@@ -4,6 +4,6 @@ coverY: 0
 
 # Welcome!
 
-## Welcome aboard!
+## Welcome to Niffler!
 
-Welcome to the company wiki! Here you'll find everything you need to know about the company.
+This is the official documation of Niffler Network. We'll start with a simple FAQ style and keep updating the doc with the product!
