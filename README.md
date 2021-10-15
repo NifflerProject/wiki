@@ -1,4 +1,5 @@
 ---
+cover: .gitbook/assets/bg_banner.png
 coverY: 0
 ---
 
